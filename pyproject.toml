@@ -6,7 +6,12 @@ authors = ["Alina Davydenko <Alinadavydenko620@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.13"
+python = "^3.12"
+scikit-learn = "^1.7.2"
+pandas = "^2.3.3"
+seaborn = "^0.13.2"
+matplotlib = "^3.10.7"
+numpy = "^2.3.3"
 
 
 [build-system]
